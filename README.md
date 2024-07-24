@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/thedoggybrad/NewsOrgOnMastodonSystem/main/logo.jpeg" width="64" height="64">
 # NewsOrgOnMastodon
 The NewsOrgOnMastodon system aims to deliver news and media organizations' presence to Mastodon (mastodon.social) by syncing their content to Mastodon from their official platforms such as RSS Feeds, thus serving as an unofficial Mastodon relay-bot of that news/media organization. This system has no legal nor genuine organizational links and are linked unofficially to this system. 
 
