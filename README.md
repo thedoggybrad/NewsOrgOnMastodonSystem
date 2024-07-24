@@ -4,5 +4,4 @@ The NewsOrgOnMastodon system aims to deliver news and media organization's prese
 ## Members
 Here are the following members of the NewsOrgOnMastodon system.
 ### Category : Philippine Media
-#### Manila Bulletin
-<a rel="me" href="https://mastodon.social/@rssmanilabulletin">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a>
