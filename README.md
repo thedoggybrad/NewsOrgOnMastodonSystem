@@ -8,4 +8,5 @@ Thanks for [Mastofeed](https://mastoget.x10.bz) for providing the service that s
 Here are the following members of the NewsOrgOnMastodon system.
 ### Category : Philippine Media
 <a rel="me" href="https://mastodon.social/@rssabscbnnews">ABS-CBN News</a><br>
+<a rel="me" href="https://mastodon.social/@rssgma">GMA Integrated News</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a>
