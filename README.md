@@ -6,8 +6,8 @@ The NewsOrgOnMastodon system of Mastodon accounts are headed by:<br>
 ## Credits
 Thanks for [Mastofeed](https://mastofeed.org) for providing the service that sends the actual news from the RSS Feeds of various news organizations as a post to Mastodon.
 
-## Members
-Here are the following members of the NewsOrgOnMastodon system.
+## Connected News Organizations
+Here are the following organizations that we have connected to the NewsOrgOnMastodon system of Mastodon accounts.
 ### Category : Philippine Media
 <a rel="me" href="https://mastodon.social/@rssabscbnnews">ABS-CBN News</a><br>
 <a rel="me" href="https://mastodon.social/@rssgma">GMA Integrated News</a><br>
