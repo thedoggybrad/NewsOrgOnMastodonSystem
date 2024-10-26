@@ -4,7 +4,7 @@ The NewsOrgOnMastodon system of Mastodon accounts are headed by:<br>
 [TheDoggyBrad Software Labs](https://github.com/thedoggybrad)
 
 ## Disclaimer
-We have no connection to the news/mediaborganizations listed below. We just fetch their public RSS Feed and let Mastofeed publish it to the respective Mastodon accounts.
+We have no connection to the news/media organizations listed below. We just fetch their public RSS Feed and let Mastofeed publish it to the respective Mastodon accounts.
 
 ## Credits
 Thanks for [Mastofeed](https://mastofeed.org) for providing the service that sends the actual news from the RSS Feeds of various news organizations as a post to Mastodon.
