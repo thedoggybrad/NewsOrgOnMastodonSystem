@@ -16,4 +16,5 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssgma">GMA Integrated News</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a><br>
 <a rel="me" href="https://mastodon.social/@rssphpinfoagency">Philippine Information Agency (PIA)</a><br>
-<a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a>
+<a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a><br>
+<a rel="me" href="https://mastodon.social/@rssradyopilipinas">Radyo Pilipinas</a>
