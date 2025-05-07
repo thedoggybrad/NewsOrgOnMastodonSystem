@@ -14,6 +14,7 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 ### Category : Philippine Media
 <a rel="me" href="https://mastodon.social/@rssabscbnnews">ABS-CBN News</a><br>
 <a rel="me" href="https://mastodon.social/@rssgma">GMA Integrated News</a><br>
+<a rel="me" href="https://mastodon.social/@rssibcnews">IBC News</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a><br>
 <a rel="me" href="https://mastodon.social/@rssphpinfoagency">Philippine Information Agency (PIA)</a><br>
 <a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a><br>
