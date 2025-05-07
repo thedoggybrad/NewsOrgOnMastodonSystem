@@ -20,6 +20,7 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a><br>
 <a rel="me" href="https://mastodon.social/@rssptvnews">PTV News</a><br>
 <a rel="me" href="https://mastodon.social/@rssradyopilipinas">Radyo Pilipinas</a><br>
+<a rel="me" href="https://mastodon.social/@rssrappler">Rappler</a><br>
 <a rel="me" href="https://mastodon.social/@rsssunstar">SunStar</a>
 
 
