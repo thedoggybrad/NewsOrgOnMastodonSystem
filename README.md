@@ -21,3 +21,9 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssptvnews">PTV News</a><br>
 <a rel="me" href="https://mastodon.social/@rssradyopilipinas">Radyo Pilipinas</a><br>
 <a rel="me" href="https://mastodon.social/@rsssunstar">SunStar</a>
+
+
+## Future Roadmap
+[] To add the Philippine News Agency as a member of the NewsOrgOnMastodon System of Accounts
+<br>
+N.B. It is almost a year now, and I cannot still find the RSS Feed of the Philippine News Agency (PNA). It could be non-existent or just hidden in their website and that caused me to take some time before I find the feeds for PTV News and IBC News. I hope that I can find the RSS feed of PNA someday.
