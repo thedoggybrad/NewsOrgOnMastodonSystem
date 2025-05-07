@@ -1,4 +1,4 @@
-# About us
+# NewsOrgOnMastodon
 The NewsOrgOnMastodon system of Mastodon accounts aims to deliver news and media organizations' presence to Mastodon (mastodon.social) by syncing their content to Mastodon from their official platforms such as RSS Feeds, thus serving as an unofficial Mastodon relay-bot of that news/media organization. This system has no legal nor genuine organizational links and are linked unofficially to this system of Mastodon accounts. <br><br>
 The operations of NewsOrgOnMastodon system of Mastodon accounts is headed by:<br>
 [TheDoggyBrad Software Labs](https://github.com/thedoggybrad)
