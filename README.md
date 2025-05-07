@@ -13,6 +13,7 @@ Thanks for [Mastofeed](https://mastofeed.org) for providing the service that sen
 Here are the following organizations that we have connected to the NewsOrgOnMastodon system of Mastodon accounts.
 ### Category : Philippine Media
 <a rel="me" href="https://mastodon.social/@rssabscbnnews">ABS-CBN News</a><br>
+<a rel="me" href="https://mastodon.social/@rssdailytribune">Daily Tribune</a><br>
 <a rel="me" href="https://mastodon.social/@rssgma">GMA Integrated News</a><br>
 <a rel="me" href="https://mastodon.social/@rssibcnews">IBC News</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a><br>
