@@ -27,8 +27,12 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 
 
 ## Future Roadmap
-Here are the planned organizations to be added on NewsOrgOnMastodon but cannot be added right now due to technical difficulties.
+Here are the planned organizations to be added in NewsOrgOnMastodon and is scheduled to be added within the next 120 hours.<br>
+•Manila Standard<br>
+•Philippine Daily Inquirer
 <br><br>
+Here are the planned organizations to be added on NewsOrgOnMastodon but cannot be added right now due to technical difficulties.
+<br>
 •Philippine News Agency
 <br>
 •News5
