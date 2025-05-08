@@ -29,7 +29,7 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rsssunstar">SunStar</a>
 
 ## Custom Scripts Used
-Custom scritps used by the NewsOrgOnMastodon System of Accounts are available right [here](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem/tree/main/custom_scripts).
+Open-source custom scritps used by the NewsOrgOnMastodon System of Accounts are available right [here](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem/tree/main/custom_scripts).
 <br><br>
 Contents:
 <br>
