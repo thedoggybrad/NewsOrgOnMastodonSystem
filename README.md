@@ -28,9 +28,21 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssrappler">Rappler</a><br>
 <a rel="me" href="https://mastodon.social/@rsssunstar">SunStar</a>
 
+## Custom Scripts Used
+Custom scritps used by the NewsOrgOnMastodon System of Accounts are available right [here](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem/tree/main/custom_scripts).
+<br><br>
+Contents:
+<br>
+•RSS Feed Fetchers (Used for bypassing user-agent issues)<br>
+-ABS-CBN News<br>
+-Philippine Information Agency<br>
+-Philippine Daily Inquirer<br>
+•RSS Feed Builders (Used for sites with no RSS feeds)<br>
+-Philippine News Agency
+
 
 ## Future Roadmap
-== SOME ARE DEFERRED ==
+== NONE FOR NOW ==
 
 
 ## Deferred Roadmap
