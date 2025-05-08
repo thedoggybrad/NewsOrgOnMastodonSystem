@@ -29,10 +29,10 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 
 
 ## Future Roadmap
-Here are the planned organizations to be added on NewsOrgOnMastodon that is scheduled to be added within the next 72 hours.
+Here are the planned organizations to be added on NewsOrgOnMastodon that is scheduled to be added within the next 72 hours.<br>
 •Philippine News Agency
 <br><br>
-Here are the planned organizations to be added on NewsOrgOnMastodon but cannot be added right now due to technical difficulties and still finding a way to generate my own RSS feed for them or discover their hidden RSS Feed.
-•News5 
+Here are the planned organizations to be added on NewsOrgOnMastodon but cannot be added right now due to technical difficulties and still finding a way to generate my own RSS feed for them or discover their hidden RSS Feed.<br>
+•News5 (Current Issue: Article Items in Javascript)
 <br>
-•NewsWatchPlus
+•NewsWatchPlus (Pending Investigation
