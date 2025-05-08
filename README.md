@@ -4,7 +4,7 @@ The operations of NewsOrgOnMastodon system of Mastodon accounts is headed by:<br
 [TheDoggyBrad Software Labs](https://github.com/thedoggybrad)
 
 ## Disclaimer
-We have no connection to the news/media organizations listed below. We just fetch their public RSS Feed and let Mastofeed publish it to the respective Mastodon accounts.
+It has have no connection to the news/media organizations listed below. It just fetch their public RSS Feed and let Mastofeed publish it to the respective Mastodon accounts.
 
 ## Credits
 Thanks for [Mastofeed](https://mastofeed.org) for providing the service that sends the actual news from the RSS Feeds of various news organizations as a post to Mastodon.
@@ -31,8 +31,10 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 ## Future Roadmap
 Here are the planned organizations to be added on NewsOrgOnMastodon that is scheduled to be added within the next 72 hours.<br>
 •Philippine News Agency
-<br><br>
-Here are the planned organizations to be added on NewsOrgOnMastodon but cannot be added right now due to technical difficulties and still finding a way to generate my own RSS feed for them or discover their hidden RSS Feed.<br>
-•News5 (Current Issue: Article Items in Javascript)
+
+
+## Deferred Roadmap
+Here are the planned organizations to be added on NewsOrgOnMastodon but have been deferred (for now) due to issues that are nearly impossible to solve (atleast based on my current skills).<br>
+•News5 (Current Issue: Article Items in Javascript; Hard to Decode)
 <br>
-•NewsWatchPlus (Pending Investigation
+•NewsWatchPlus (Current Issue: Inconsistent elements used in their news page)
