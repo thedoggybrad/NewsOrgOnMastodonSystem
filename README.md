@@ -50,3 +50,5 @@ Here are the planned organizations to be added on NewsOrgOnMastodon but have bee
 •News5 (Current Issue: Article Items in Javascript; Hard to Decode)
 <br>
 •NewsWatchPlus (Current Issue: Inconsistent elements used in their news page)
+<br><br>
+PS: If you want to help, just give me the URL of the site's RSS Feed or a custom builder PHP script source code for each on admin@gosocial.x10.bz.
