@@ -18,6 +18,7 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssibcnews">IBC News</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilabulletin">Manila Bulletin</a><br>
 <a rel="me" href="https://mastodon.social/@rssmanilatimes">Manila Times</a><br>
+<a rel="me" href="https://mastodon.social/@rssphilippinedailyinquirer">Philippine Daily Inquirer</a><br>
 <a rel="me" href="https://mastodon.social/@rssphpinfoagency">Philippine Information Agency (PIA)</a><br>
 <a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a><br>
 <a rel="me" href="https://mastodon.social/@rssptvnews">PTV News</a><br>
