@@ -28,16 +28,14 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssrappler">Rappler</a><br>
 <a rel="me" href="https://mastodon.social/@rsssunstar">SunStar</a>
 
-## Custom Scripts Used
-Open-source custom scritps used by the NewsOrgOnMastodon System of Accounts are available right [here](https://github.com/thedoggybrad/NewsOrgOnMastodonSystem/tree/main/custom_scripts).
+## Proxied
+Some feeds are proxied for the purpose of allowing Mastofeed to catch feeds that it cannot normally access. The codes are located [here](https://github.com/thedoggybrad/newsorgonmastodonproxy).
 <br><br>
-Contents:
-<br>
-•RSS Feed Fetchers (Used for bypassing user-agent issues)<br>
+•RSS Feed Proxied (Used for bypassing user-agent issues)<br>
 -ABS-CBN News<br>
 -Philippine Information Agency<br>
 -Philippine Daily Inquirer<br>
-•RSS Feed Builders (Used for sites with no RSS feeds)<br>
+•Website Proxied and Custom RSS Builder (Used for sites with no RSS feeds)<br>
 -Philippine News Agency
 
 
