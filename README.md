@@ -21,7 +21,6 @@ Here are the following organizations that we have connected to the NewsOrgOnMast
 <a rel="me" href="https://mastodon.social/@rssmanilatimes">Manila Times</a><br>
 <a rel="me" href="https://mastodon.social/@rssphilippinedailyinquirer">Philippine Daily Inquirer</a><br>
 <a rel="me" href="https://mastodon.social/@rssphpinfoagency">Philippine Information Agency (PIA)</a><br>
-<a rel="me" href="https://mastodon.social/@rssphilippinenewsagency">Philippine News Agency (PNA)</a><br>
 <a rel="me" href="https://mastodon.social/@rssphilstarglobal">PhilStar Global</a><br>
 <a rel="me" href="https://mastodon.social/@rssptvnews">PTV News</a><br>
 <a rel="me" href="https://mastodon.social/@rssradyopilipinas">Radyo Pilipinas</a><br>
@@ -35,9 +34,18 @@ Some feeds are proxied for the purpose of allowing Mastofeed to catch feeds that
 -ABS-CBN News<br>
 -Philippine Information Agency<br>
 -Philippine Daily Inquirer<br>
-•Website Proxied and Custom RSS Builder (Used for sites with no RSS feeds)<br>
--Philippine News Agency
 
+
+## Shutted Down Accounts
+•<a rel="me" href="https://mastodon.social/@rssphilippinenewsagency">Philippine News Agency (PNA)</a> since June 6, 2025 (Death and Permanent Shutdown)
+<br>
+The shutdown of this account was due to the stricter Cloudflare blocking that the Philippine News Agency have implemented on their site. My automated scripts are now blocked. It cannot longer be bypassed (as of my current skills).
+<br>
+But there should be supposed a solution - web scraping services but they are not free and I do not have the money to operate it.
+<br>
+But I will still do my best to fetch the latest news again from PNA in other ways that are free but I am still failing. Sorry. It's dead for now.
+<br>
+But if you want to help, just drop an email on admin@gosocial.x10.bz. <br>
 
 ## Future Roadmap
 == NONE FOR NOW ==
